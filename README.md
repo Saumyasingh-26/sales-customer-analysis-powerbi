@@ -14,16 +14,4 @@ An interactive Power BI report to analyze sales performance, customer behavior, 
 
 ---
 
-## 📁 Files
-- `Sales and Customer Analysis.pbix` — Main Power BI file
-- `images/` — Screenshots of report visuals (optional)
-
----
-
-## 📸 Sample Visuals
-
-
-```markdown
-![Sales Overview](images/sales-overview.png)
-![Customer Segmentation](images/rfm-analysis.png)
 
