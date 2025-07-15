@@ -19,7 +19,8 @@ DAX for measures
 
 Power Query for transformation
 
-🧠 Business Insights
+## 🧠 Business Insights
+
 Top 20% products contribute to 80% of revenue
 
 Returning customers show higher average order value
