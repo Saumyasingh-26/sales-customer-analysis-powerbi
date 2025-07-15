@@ -12,6 +12,18 @@ An interactive Power BI report to analyze sales performance, customer behavior, 
 - Pareto analysis for top-performing products
 - Key KPIs: Revenue, Orders, Customer Retention
 
----
+---📊 Tools & Technologies
+Power BI Desktop
+
+DAX for measures
+
+Power Query for transformation
+
+🧠 Business Insights
+Top 20% products contribute to 80% of revenue
+
+Returning customers show higher average order value
+
+Sales dip observed in Q2 – consider targeted campaigns
 
 
