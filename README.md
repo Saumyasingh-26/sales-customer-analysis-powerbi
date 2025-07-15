@@ -12,7 +12,7 @@ An interactive Power BI report to analyze sales performance, customer behavior, 
 - Pareto analysis for top-performing products
 - Key KPIs: Revenue, Orders, Customer Retention
 
----📊 Tools & Technologies
+## 📊 Tools & Technologies
 Power BI Desktop
 
 DAX for measures
